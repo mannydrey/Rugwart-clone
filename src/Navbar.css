@@ -1,0 +1,207 @@
+@media (min-width: 320px) {
+    .Navbar{
+        display: flex;
+        flex-direction: row;
+    }
+    .Navbar_left img{
+        width: 93px;
+        height: 77px;
+        margin-left: 10px;
+    }
+    .Navbar_centre{
+        display: none;
+    }
+    .Navbar_right{
+        margin-left: 90px;
+        margin-top: 40px;
+        display: flex;
+    }
+    .Navbar_right a{
+        text-decoration: none;
+        margin-right: 5px;
+        font-weight: bold;
+        color: black;
+    }
+    #getstartedbtn{
+        background-color: #0B5D9C;
+        color: white;
+        border-radius: 8px;
+    }
+    
+}
+@media (min-width: 375px) {
+    .Navbar{
+        display: flex;
+        flex-direction: row;
+    }
+    .Navbar_left img{
+        width: 93px;
+        height: 77px;
+        margin-left: 10px;
+    }
+    .Navbar_centre{
+        display: none;
+    }
+    .Navbar_right{
+        margin-left: 170px;
+        margin-top: 40px;
+        display: flex;
+    }
+    .Navbar_right a{
+        text-decoration: none;
+        margin-right: 5px;
+        font-weight: bold;
+        color: black;
+    }
+    #getstartedbtn{
+        background-color: #0B5D9C;
+        color: white;
+        border-radius: 8px;
+    }
+    
+
+}
+@media (min-width:425px) {
+    .Navbar{
+        display: flex;
+        flex-direction: row;
+    }
+    .Navbar_left img{
+        width: 93px;
+        height: 77px;
+        margin-left: 10px;
+    }
+    .Navbar_centre{
+        display: none;
+    }
+    .Navbar_right{
+        margin-left: 210px;
+        margin-top: 40px;
+    }
+    .Navbar_right a{
+        text-decoration: none;
+        margin-right: 5px;
+        font-weight: bold;
+        color: black;
+    }
+    #getstartedbtn{
+        background-color: #0B5D9C;
+        color: white;
+        border-radius: 8px;
+    }
+
+    
+}
+@media (min-width:480px)  { 
+    .Navbar{
+        display: flex;
+        flex-direction: row;
+    }
+    .Navbar_left img{
+        width: 93px;
+        height: 77px;
+        margin-left: 10px;
+    }
+    .Navbar_centre{
+        display: none;
+    }
+    .Navbar_right{
+        margin-left: 250px;
+        margin-top: 40px;
+    }
+    .Navbar_right a{
+        text-decoration: none;
+        margin-right: 5px;
+        font-weight: bold;
+        color: black;
+    }
+    #getstartedbtn{
+        background-color: #0B5D9C;
+        color: white;
+        border-radius: 8px;
+    }
+
+ }
+@media (min-width:600px)  { 
+    /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ 
+    .Navbar_right{
+        margin-left: 16em;
+    }
+    #getstartedbtn{
+        width: 175px;
+        height: 50px;
+        
+    }
+
+}
+@media (min-width:768px)  {
+    .Navbar_right{
+        margin-left: 27em;
+    }
+    .Navbar_right a{
+        font-size: 18px;
+        margin-right: 5px;
+    }
+    #getstartedbtn{
+        width: 175px;
+        height: 50px;
+        
+    }
+
+}
+@media (min-width:800px)  { 
+    .Navbar_right{
+        margin-left: 29em;
+    }
+    .Navbar_right a{
+        margin-right: 10px;
+        font-size: 14px;
+    }
+    #getstartedbtn{
+        width: 175px;
+        height: 50px;
+        
+    }
+    /* tablet, landscape iPad, lo-res laptops ands desktops */ 
+}
+@media (min-width:1024px) { 
+    /* .Navbar{width} */
+    .Navbar_right{
+        margin-left: 300px;
+    }
+    .Navbar_right a{
+        margin-right: 10px;
+        font-size: 14px;
+    }
+    .Navbar_centre{
+        display: flex;
+        flex-direction: row;
+        margin-left: 400px;
+        width: 500px;
+    }
+    .Navbar_centre a{
+        text-decoration: none;
+        padding-left: 30px;
+        margin-top: 40px;
+        font-size: 14px;
+        font-weight: bold;
+        color: black;
+    }
+    #getstartedbtn{
+        margin-bottom: 10px;
+    }
+    .Navbar_left img{
+        margin-left: 35px;
+    }
+    /* big landscape tablets, laptops, and desktops */ 
+}
+@media (min-width:1281px) { 
+    .Navbar{
+        width: 100%;
+    }
+    .Navbar_right{
+        margin-left: 140px;
+    }
+
+    /* hi-res laptops and desktops */ 
+}

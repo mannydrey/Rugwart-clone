@@ -1,0 +1,218 @@
+@media (min-width:320px)  {
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    .section6{
+        background-color: #0B5D9C;
+        justify-content: space-between;
+    }
+    .section6 p{
+        font-size: 18px;
+    }
+    .section6-h1 h1{
+        color: white;
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+    .section6-div1{
+        padding-bottom: 20px;
+        margin-bottom: 70px;
+    }
+    .P3{
+        position: relative;
+        bottom: 45px;
+    }
+    .section6-div1{
+        margin-left: 30px
+    }
+    .section6-div2{
+        background-color: white;
+        width: 300px;
+        height: 230px;
+        border-radius: 20px;
+        margin: auto;
+        margin-bottom: 70px;
+    }
+    .P4{
+        position: relative;
+        bottom: 45px;
+    }
+    .section6-div3{
+        background-color: white;
+        width: 310px;
+        height: 287px;
+        border-radius: 20px;
+        margin: auto;
+        margin-bottom: 70px;
+
+    }
+    .section6-div4{
+        margin: auto;
+        width: 405px;
+    }
+    .P6{
+        position: relative;
+        bottom: 70px;
+        left: 30px;
+
+    }
+
+ }
+@media (min-width:375px)  {
+    .section6-div2{
+        background-color: white;
+        width: 305px;
+        height: 230px;
+        border-radius: 20px;
+        margin: auto;
+        margin-bottom: 70px;
+    }
+    .P3{
+        position: relative;
+        bottom: 45px;
+    }
+    .section6-div3{
+        background-color: white;
+        width: 310px;
+        height: 287px;
+        border-radius: 20px;
+        margin: auto;
+        margin-bottom: 70px;
+
+    }
+    .P4{
+        position: relative;
+        bottom: 45px;
+    }
+    .P6{
+        position: relative;
+        bottom: 70px;
+        left: 40px;
+
+    }
+
+ }
+@media (min-width:425px)  {
+    .section6-div2{
+        background-color: white;
+        width: 405px;
+        height: 230px;
+        border-radius: 20px;
+        margin: auto;
+        margin-bottom: 70px;
+    }
+    .P3{
+        position: relative;
+        bottom: 45px;
+    }
+    .section6-div3{
+        background-color: white;
+        width: 400px;
+        height: 287px;
+        border-radius: 20px;
+        margin: auto;
+        margin-bottom: 70px;
+
+    }
+    .P4{
+        position: relative;
+        bottom: 45px;
+    }
+
+ }
+@media (min-width:480px)  {
+    .section6{
+        background-color: #0B5D9C;
+        justify-content: space-between;
+    }
+    .section6 p{
+        font-size: 18px;
+    }
+    .section6-h1 h1{
+        color: white;
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+    .section6-div1{
+        padding-bottom: 20px;
+        margin-bottom: 70px;
+    }
+    .P3{
+        position: relative;
+        bottom: 45px;
+    }
+    .section6-div1{
+        margin-left: 30px
+    }
+    .section6-div2{
+        background-color: white;
+        width: 405px;
+        height: 230px;
+        border-radius: 20px;
+        margin: auto;
+        margin-bottom: 70px;
+    }
+    .P4{
+        position: relative;
+        bottom: 45px;
+    }
+    .section6-div3{
+        background-color: white;
+        width: 447px;
+        height: 287px;
+        border-radius: 20px;
+        margin: auto;
+        margin-bottom: 70px;
+
+    }
+    .section6-div4{
+        margin: auto;
+        width: 405px;
+    }
+    .P6{
+        position: relative;
+        bottom: 70px;
+        left: 40px;
+
+    }
+
+ }
+@media (min-width:600px)  { }
+@media (min-width:801px)  { }
+@media (min-width:1024px) {
+    .section6-flex{
+        display: flex;
+        flex-direction: row;
+        margin-top: 80px;
+    }
+    .section6-div1{
+        height: 270px;
+        width: 200px;
+        padding-bottom: 20px;
+        margin-bottom: 70px;
+    }
+    .P2{
+        position: relative;
+        top: 180px;
+        left: 5px;
+    }
+    .P5{
+        position: relative;
+        bottom: 200px;
+
+    }
+    .P6{
+        position: relative;
+        top: 70px;
+        left: 20px;
+    }
+    .section6-div2{
+        margin-left: 70px;
+    }
+    .section6-div3{
+        margin-left: 70px;
+    }
+
+ }
